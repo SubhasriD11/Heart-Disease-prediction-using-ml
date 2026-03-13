@@ -4,4 +4,4 @@ This project predicts the probability of heart disease using Machine Learning.
 
 ### Application Interface
 
-![App Screenshot](app_look.png)
+![App Screenshot](app look.png)

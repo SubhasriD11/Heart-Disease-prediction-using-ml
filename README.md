@@ -1,11 +1,7 @@
-# Clone the repository
-git clone https://github.com/your-username/heart-disease-prediction-using-ml.git
+## Heart Disease Prediction App
 
-# Navigate into the folder
-cd heart-disease-prediction-using-ml
+This project predicts the probability of heart disease using Machine Learning.
 
-# Install dependencies
-pip install -r requirements.txt
+### Application Interface
 
-# Run the project
-python main.py
+![App Screenshot](images/app_screenshot.png)

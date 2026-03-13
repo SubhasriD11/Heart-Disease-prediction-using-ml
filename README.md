@@ -1,4 +1,4 @@
-## Heart Disease Prediction App
+## Heart Disease Prediction site
 
 This project predicts the probability of heart disease using Machine Learning.
 
